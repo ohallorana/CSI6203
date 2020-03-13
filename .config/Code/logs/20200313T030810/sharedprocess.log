@@ -1,0 +1,20 @@
+[2020-03-13 03:08:15.563] [sharedprocess] [info] main {"machineId":"6d614a91acd8343324fc6cd6c735869b5b4b5eafadd0ce97169ba3b9d0089b63"}
+[2020-03-13 03:08:19.124] [sharedprocess] [info] Installing extension: ms-python.python
+[2020-03-13 03:08:19.124] [sharedprocess] [info] Installing extension: rebornix.ruby
+[2020-03-13 03:08:21.658] [sharedprocess] [info] Downloaded extension: rebornix.ruby /tmp/807bbe5a-4376-44f9-a0f7-4c764ce6f113
+[2020-03-13 03:08:21.873] [sharedprocess] [info] Extracted extension to /home/student/.vscode/extensions/.rebornix.ruby-0.27.0: rebornix.ruby
+[2020-03-13 03:08:21.873] [sharedprocess] [info] Renamed to /home/student/.vscode/extensions/rebornix.ruby-0.27.0
+[2020-03-13 03:08:21.874] [sharedprocess] [info] Installation completed. rebornix.ruby
+[2020-03-13 03:08:22.224] [sharedprocess] [info] Installing extension: wingrunr21.vscode-ruby
+[2020-03-13 03:08:23.119] [sharedprocess] [info] Downloaded extension: wingrunr21.vscode-ruby /tmp/26486138-3663-46e0-b3a5-2fcd1aac3a8b
+[2020-03-13 03:08:23.166] [sharedprocess] [info] Extracted extension to /home/student/.vscode/extensions/.wingrunr21.vscode-ruby-0.27.0: wingrunr21.vscode-ruby
+[2020-03-13 03:08:23.166] [sharedprocess] [info] Renamed to /home/student/.vscode/extensions/wingrunr21.vscode-ruby-0.27.0
+[2020-03-13 03:08:23.166] [sharedprocess] [info] Installation completed. wingrunr21.vscode-ruby
+[2020-03-13 03:08:23.171] [sharedprocess] [info] Extensions installed successfully: wingrunr21.vscode-ruby
+[2020-03-13 03:08:23.179] [sharedprocess] [info] Extensions installed successfully: rebornix.ruby
+[2020-03-13 03:08:39.387] [sharedprocess] [info] Downloaded extension: ms-python.python /tmp/31cf925b-e723-4653-9407-6de175a907d2
+[2020-03-13 03:08:45.192] [sharedprocess] [info] Extracted extension to /home/student/.vscode/extensions/.ms-python.python-2019.10.41019: ms-python.python
+[2020-03-13 03:08:45.192] [sharedprocess] [info] Renamed to /home/student/.vscode/extensions/ms-python.python-2019.10.41019
+[2020-03-13 03:08:45.202] [sharedprocess] [info] Installation completed. ms-python.python
+[2020-03-13 03:08:45.221] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2020-03-13 03:08:55.545] [sharedprocess] [info] Starting to clean up unused language packs.

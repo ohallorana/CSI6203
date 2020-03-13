@@ -1,0 +1,76 @@
+2019-07-24 08:20:47.821 (0x7ffd5b8ba8d0) Debug: New PolkitAgentListener  0x55d22f7c0ca0
+2019-07-24 08:20:47.821 (0x7ffd5b8ba8d0) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffd5b8ba8e0) for  0x55d22f7c0ca0
+2019-07-24 08:20:49.890 (0x7ffc31ade900) Debug: systemd: "CanHibernate" = "no"
+2019-07-24 08:20:49.894 (0x7ffc31ade900) Warning: dbusGetProperty: QDBusInterface is invalid "org.freedesktop.UPower" "/org/freedesktop/UPower" "org.freedesktop.DBus.Properties" "CanHibernate"
+2019-07-24 08:20:49.896 (0x7ffc31ade900) Warning: dbusCall: QDBusInterface is invalid "org.freedesktop.ConsoleKit" "/org/freedesktop/ConsoleKit/Manager" "org.freedesktop.ConsoleKit.Manager" "CanHibernate"
+2019-07-24 08:20:49.921 (0x7ffc31ade900) Debug: systemd: "CanSuspend" = "yes"
+2019-07-24 08:20:49.970 (0x7fff8c0da5e0) Debug: systemd: "CanReboot" = "yes"
+2019-07-24 08:20:50.015 (0x7fff8c0da5e0) Debug: systemd: "CanPowerOff" = "yes"
+2019-07-24 08:20:50.145 (0x7fffcabe1790) Debug: ()
+2019-07-24 08:20:50.333 (0x7fffcabe1790) Debug: WinIdChange 1400008 handle QWidgetWindow(0x55b859763050, name="LXQtPanel panel1Window") QScreen(0x55b859497e50, name="Virtual1")
+2019-07-24 08:20:50.399 (0x7fffcabe1790) Debug: Systray started
+2019-07-24 08:20:52.109 (0x7fffcabe1790) Debug: Error on DBus request: QDBusError("org.freedesktop.DBus.Error.InvalidArgs", "No such property “ToolTip”")
+2019-07-24 08:20:52.724 (0x7fffcabe1790) Debug: Unknown property margin-button
+2019-07-24 08:20:52.725 (0x7fffcabe1790) Debug: Unknown property margin-button
+2019-07-24 08:20:52.729 (0x7fffcabe1790) Debug: Unknown property margin-button
+2019-07-24 08:20:53.004 (0x7ffda0dcfcd0) Debug: BatteryChanged discharging: true chargeLevel: nan actionTime: QTime(Invalid)
+2019-07-24 08:20:53.154 (0x7ffda0dcfcd0) Debug: Inhibit got: 24
+2019-07-24 08:20:53.240 (0x7fffcabe1790) Debug: Error on DBus request: QDBusError("org.freedesktop.DBus.Error.InvalidArgs", "No such property “OverlayIconName”")
+2019-07-24 08:20:53.324 (0x7fffcabe1790) Debug: Error on DBus request: QDBusError("org.freedesktop.DBus.Error.InvalidArgs", "No such property “OverlayIconPixmap”")
+2019-07-24 08:20:53.325 (0x7fffcabe1790) Debug: Error on DBus request: QDBusError("org.freedesktop.DBus.Error.InvalidArgs", "No such property “AttentionIconPixmap”")
+2019-07-24 08:20:53.517 (0x7ffda0dcfcd0) Debug: Starting idlenesswatcher
+2019-07-24 08:20:54.283 (0x7fffcabe1790) Debug: Unknown property margin-button
+2019-07-24 08:20:54.283 (0x7fffcabe1790) Debug: Unknown property margin-button
+2019-07-24 08:20:54.283 (0x7fffcabe1790) Debug: Unknown property margin-button
+2019-07-24 08:21:06.116 (0x7fffcabe1790) Debug: execAction "/usr/share/applications/pcmanfm-qt.desktop"
+2019-07-24 08:21:39.080 (0x7fffcabe1790) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 4709, resource id: 20971708, major code: 18 (ChangeProperty), minor code: 0
+2019-07-24 08:21:39.084 (0x7fffcabe1790) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 4714, resource id: 20971708, major code: 18 (ChangeProperty), minor code: 0
+2019-07-24 08:22:08.717 (0x7fffcabe1790) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 5836, resource id: 37748747, major code: 18 (ChangeProperty), minor code: 0
+2019-07-24 08:22:55.761 (0x7fffcabe1790) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 6889, resource id: 37748742, major code: 18 (ChangeProperty), minor code: 0
+2019-07-24 08:24:14.559 (0x7ffd5b8ba8d0) Debug: Listener adapter polkit_qt_listener_initiate_authentication
+2019-07-24 08:24:14.559 (0x7ffd5b8ba8d0) Debug: GSimpleAsyncResult: 0x55d22f895a00
+2019-07-24 08:24:14.559 (0x7ffd5b8ba8d0) Debug: polkit_qt_listener_initiate_authentication callback for  0x55d22f7c0ca0
+2019-07-24 08:24:14.828 (0x7ffd5b8ba8d0) Debug: REQUEST
+2019-07-24 08:24:19.409 (0x7ffd5b8ba8d0) Debug: COMPLETED
+2019-07-24 08:24:19.409 (0x7ffd5b8ba8d0) Debug: Listener adapter polkit_qt_listener_initiate_authentication_finish
+2019-07-24 08:24:19.409 (0x7ffd5b8ba8d0) Debug: polkit_qt_listener_initiate_authentication_finish callback for  0x55d22f7c0ca0
+2019-07-24 08:24:30.035 (0x7fffcabe1790) Debug: Unknown property margin-button
+2019-07-24 08:24:30.035 (0x7fffcabe1790) Debug: Unknown property margin-button
+2019-07-24 08:24:30.036 (0x7fffcabe1790) Debug: Unknown property margin-button
+2019-07-24 08:25:17.791 (0x7fffcabe1790) Warning: QSvgHandler: Image filename is empty
+2019-07-24 08:25:17.798 (0x7fffcabe1790) Warning: QSvgHandler: Image filename is empty
+2019-07-24 08:25:17.800 (0x7fffcabe1790) Warning: QSvgHandler: Image filename is empty
+2019-07-24 08:25:42.641 (0x7fffcabe1790) Debug: Unknown property margin-button
+2019-07-24 08:25:42.642 (0x7fffcabe1790) Debug: Unknown property margin-button
+2019-07-24 08:25:42.642 (0x7fffcabe1790) Debug: Unknown property margin-button
+2019-07-24 08:25:42.647 (0x7fffcabe1790) Debug: Unknown property margin-button
+2019-07-24 08:25:42.648 (0x7fffcabe1790) Debug: Unknown property margin-button
+2019-07-24 08:25:42.648 (0x7fffcabe1790) Debug: Unknown property margin-button
+2019-07-24 08:25:48.218 (0x7fffcabe1790) Debug: execAction "/usr/share/applications/pcmanfm-qt.desktop"
+2019-07-24 08:26:58.813 (0x7fff5f2d6590) Debug: New PolkitAgentListener  0x565176b844a0
+2019-07-24 08:26:58.821 (0x7fff5f2d6590) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7fff5f2d65a0) for  0x565176b844a0
+2019-07-24 08:26:59.371 (0x7ffff01168c0) Debug: ()
+2019-07-24 08:26:59.601 (0x7ffff01168c0) Debug: WinIdChange 1600007 handle QWidgetWindow(0x560a9b8959d0, name="LXQtPanel panel1Window") QScreen(0x560a9b5b1e50, name="Virtual1")
+2019-07-24 08:26:59.683 (0x7ffff01168c0) Debug: Systray started
+2019-07-24 08:26:59.721 (0x7fff9950c5f0) Debug: systemd: "CanHibernate" = "no"
+2019-07-24 08:26:59.723 (0x7fff9950c5f0) Warning: ** Dbus error **************************
+2019-07-24 08:26:59.723 (0x7fff9950c5f0) Warning: Error name  "org.freedesktop.DBus.Error.InvalidArgs"
+2019-07-24 08:26:59.723 (0x7fff9950c5f0) Warning: Error msg   "No such interface “org.freedesktop.DBus.Properties”"
+2019-07-24 08:26:59.723 (0x7fff9950c5f0) Warning: ****************************************
+2019-07-24 08:26:59.724 (0x7fff9950c5f0) Warning: dbusCall: QDBusInterface is invalid "org.freedesktop.ConsoleKit" "/org/freedesktop/ConsoleKit/Manager" "org.freedesktop.ConsoleKit.Manager" "CanHibernate"
+2019-07-24 08:26:59.743 (0x7fff9950c5f0) Debug: systemd: "CanSuspend" = "yes"
+2019-07-24 08:27:00.009 (0x7ffff01168c0) Debug: Error on DBus request: QDBusError("org.freedesktop.DBus.Error.InvalidArgs", "No such property “ToolTip”")
+2019-07-24 08:27:00.046 (0x7ffff01168c0) Debug: Error on DBus request: QDBusError("org.freedesktop.DBus.Error.InvalidArgs", "No such property “OverlayIconName”")
+2019-07-24 08:27:00.069 (0x7ffff01168c0) Debug: Error on DBus request: QDBusError("org.freedesktop.DBus.Error.InvalidArgs", "No such property “OverlayIconPixmap”")
+2019-07-24 08:27:00.070 (0x7ffff01168c0) Debug: Error on DBus request: QDBusError("org.freedesktop.DBus.Error.InvalidArgs", "No such property “AttentionIconPixmap”")
+2019-07-24 08:27:00.109 (0x7ffee1d4db40) Debug: systemd: "CanReboot" = "yes"
+2019-07-24 08:27:00.122 (0x7ffee1d4db40) Debug: systemd: "CanPowerOff" = "yes"
+2019-07-24 08:27:00.732 (0x7ffe5b2af740) Debug: Starting idlenesswatcher
+2019-07-24 08:27:03.043 (0x7ffff01168c0) Debug: execAction "/usr/share/applications/pcmanfm-qt.desktop"
+2019-07-24 08:27:08.868 (0x7ffff01168c0) Debug: execAction "/usr/share/applications/qterminal.desktop"
+2019-07-24 09:11:53.013 (0x7ffff01168c0) Debug: execAction "/usr/share/applications/code.desktop"
+2019-07-24 09:18:14.274 (0x7ffff01168c0) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 29247, resource id: 37748742, major code: 18 (ChangeProperty), minor code: 0
+2019-07-24 09:18:15.729 (0x7ffff01168c0) Debug: execAction "/usr/share/applications/code.desktop"
+2019-07-24 14:16:14.643 (0x7ffff01168c0) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 34983, resource id: 39845889, major code: 18 (ChangeProperty), minor code: 0
+2019-07-24 14:16:43.295 (0x7ffee1d4db40) Debug: systemd: "CanPowerOff" = "yes"
+2019-07-24 14:16:45.088 (0x7ffee1d4db40) Debug: systemd: "CanPowerOff" = "yes"

@@ -1,0 +1,7 @@
+classify-client.services.mozilla.com:HSTS	0	18101	1595495539537,1,0,2
+firefox.settings.services.mozilla.com:HSTS	0	18101	1595495545861,1,0,2
+www.mozilla.org:HSTS	0	18101	1595495538014,1,0,2
+mozilla.org:HSTS	0	18101	1595495540976,1,0,2
+go.microsoft.com:HSTS	0	18101	1595495536937,1,1,2
+normandy.cdn.mozilla.net:HSTS	0	18101	1595495537930,1,0,2
+code.visualstudio.com:HSTS	0	18101	1595495541809,1,0,2

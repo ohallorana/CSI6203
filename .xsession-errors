@@ -1,0 +1,170 @@
+Xsession: X session started for student at Wed 24 Jul 2019 08:20:43 AM UTC
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/student/.Xauthority
+localuser:student being added to access control list
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-Lubuntu:/etc/xdg
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1
+dbus-update-activation-environment: setting DESKTOP_SESSION=Lubuntu
+dbus-update-activation-environment: setting PWD=/home/student
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=
+dbus-update-activation-environment: setting LOGNAME=student
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting XAUTHORITY=/home/student/.Xauthority
+dbus-update-activation-environment: setting HOME=/home/student
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting USER=student
+dbus-update-activation-environment: setting PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/Lubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+dbus-daemon[1258]: Activating service name='org.a11y.atspi.Registry' requested by ':1.1' (uid=1000 pid=1291 comm="/usr/bin/nm-applet " label="unconfined")
+dbus-daemon[1258]: Successfully activated service 'org.a11y.atspi.Registry'
+SpiRegistry daemon is running with well-known name - org.a11y.atspi.Registry
+
+(nm-applet:1291): Gtk-WARNING **: 08:20:47.040: Can't set a parent on widget which has a parent
+Fcitx seems is not running
+(0x7fff8c0da5e0) Debug: systemd: "CanReboot" = "yes"
+(0x7fff8c0da5e0) Debug: systemd: "CanPowerOff" = "yes"
+Translator is not loaded "qlipper_en_US" "/usr/share/qlipper/translations"
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 545 requests (545 known processed) with 0 events remaining.
+The X11 connection broke (error 1). Did the X11 server die?
+The X11 connection broke (error 1). Did the X11 server die?
+Gdk-Message: 08:26:47.680: nm-applet: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Xsession: X session started for student at Wed 24 Jul 2019 08:26:56 AM UTC
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/student/.Xauthority
+localuser:student being added to access control list
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-Lubuntu:/etc/xdg
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session3
+dbus-update-activation-environment: setting DESKTOP_SESSION=Lubuntu
+dbus-update-activation-environment: setting PWD=/home/student
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=
+dbus-update-activation-environment: setting LOGNAME=student
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting XAUTHORITY=/home/student/.Xauthority
+dbus-update-activation-environment: setting HOME=/home/student
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting USER=student
+dbus-update-activation-environment: setting PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/Lubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+dbus-daemon[1258]: Activating service name='org.a11y.atspi.Registry' requested by ':1.22' (uid=1000 pid=2148 comm="/usr/bin/nm-applet " label="unconfined")
+dbus-daemon[1258]: Successfully activated service 'org.a11y.atspi.Registry'
+SpiRegistry daemon is running with well-known name - org.a11y.atspi.Registry
+
+(nm-applet:2148): Gtk-WARNING **: 08:26:58.196: Can't set a parent on widget which has a parent
+Fcitx seems is not running
+(0x7ffee1d4db40) Debug: systemd: "CanReboot" = "yes"
+(0x7ffee1d4db40) Debug: systemd: "CanPowerOff" = "yes"
+Translator is not loaded "qlipper_en_US" "/usr/share/qlipper/translations"
+(0x7ffee1d4db40) Debug: systemd: "CanPowerOff" = "yes"
+(0x7ffee1d4db40) Debug: systemd: "CanPowerOff" = "yes"
+Gdk-Message: 14:16:45.666: nm-applet: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 1909 requests (1909 known processed) with 0 events remaining.
+The X11 connection broke (error 1). Did the X11 server die?
+The X11 connection broke (error 1). Did the X11 server die?
+Xsession: X session started for student at Fri 13 Mar 2020 02:46:47 AM UTC
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/student/.Xauthority
+localuser:student being added to access control list
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session15
+dbus-update-activation-environment: setting GTK_IM_MODULE=xim
+dbus-update-activation-environment: setting QT4_IM_MODULE=xim
+dbus-update-activation-environment: setting XMODIFIERS=@im=ibus
+dbus-update-activation-environment: setting DESKTOP_SESSION=ubuntu
+dbus-update-activation-environment: setting PWD=/home/student
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=ubuntu:GNOME
+dbus-update-activation-environment: setting LOGNAME=student
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting XAUTHORITY=/home/student/.Xauthority
+dbus-update-activation-environment: setting HOME=/home/student
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=2
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=ubuntu:GNOME
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting CLUTTER_IM_MODULE=xim
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting USER=student
+dbus-update-activation-environment: setting PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting QT_IM_MODULE=ibus
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           Xsession: X session started for student at Fri 13 Mar 2020 02:49:36 AM UTC
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/student/.Xauthority
+localuser:student being added to access control list
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session2
+dbus-update-activation-environment: setting GTK_IM_MODULE=xim
+dbus-update-activation-environment: setting QT4_IM_MODULE=xim
+dbus-update-activation-environment: setting XMODIFIERS=@im=ibus
+dbus-update-activation-environment: setting DESKTOP_SESSION=ubuntu
+dbus-update-activation-environment: setting PWD=/home/student
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=ubuntu:GNOME
+dbus-update-activation-environment: setting LOGNAME=student
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting XAUTHORITY=/home/student/.Xauthority
+dbus-update-activation-environment: setting HOME=/home/student
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=2
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=ubuntu:GNOME
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting CLUTTER_IM_MODULE=xim
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting USER=student
+dbus-update-activation-environment: setting PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting QT_IM_MODULE=ibus
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment

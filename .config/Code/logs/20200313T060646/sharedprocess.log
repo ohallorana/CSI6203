@@ -1,0 +1,4 @@
+[2020-03-13 06:06:50.539] [sharedprocess] [info] main {"machineId":"6d614a91acd8343324fc6cd6c735869b5b4b5eafadd0ce97169ba3b9d0089b63"}
+[2020-03-13 06:06:55.291] [sharedprocess] [info] Deleted from disk ms-python.python /home/student/.vscode/extensions/ms-python.python-2019.6.24221
+[2020-03-13 06:06:55.293] [sharedprocess] [info] Deleted from disk rebornix.ruby /home/student/.vscode/extensions/rebornix.ruby-0.24.2
+[2020-03-13 06:07:30.528] [sharedprocess] [info] Starting to clean up unused language packs.
