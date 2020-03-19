@@ -1,8 +1,13 @@
 {
     "telemetry.machineId": "6d614a91acd8343324fc6cd6c735869b5b4b5eafadd0ce97169ba3b9d0089b63",
     "openedPathsList": {
-        "workspaces3": [],
+        "workspaces3": [
+            "file:///home/student/CSP2101/Workshop"
+        ],
         "files2": [
+            "file:///home/student/CSP2101/Workshop/Week3/Savepassword.sh",
+            "file:///home/student/CSP2101/Workshop/Week3/test10/secret.txt",
+            "file:///home/student/CSP2101/Workshop/Week3/secret.txt",
             "file:///home/student/.bashrc"
         ]
     },
@@ -44,6 +49,54 @@
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "fsPath": "/home/student/CSP2101/Workshop",
+                                        "external": "file:///home/student/CSP2101/Workshop",
+                                        "path": "/home/student/CSP2101/Workshop",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/CSP2101/Workshop"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/student/CSP2101/Workshop/Week3/Savepassword.sh",
+                                        "path": "/home/student/CSP2101/Workshop/Week3/Savepassword.sh",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/CSP2101/Workshop/Week3/Savepassword.sh"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/student/CSP2101/Workshop/Week3/test10/secret.txt",
+                                        "path": "/home/student/CSP2101/Workshop/Week3/test10/secret.txt",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/CSP2101/Workshop/Week3/test10/secret.txt"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/student/CSP2101/Workshop/Week3/secret.txt",
+                                        "path": "/home/student/CSP2101/Workshop/Week3/secret.txt",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/CSP2101/Workshop/Week3/secret.txt"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -168,8 +221,7 @@
                     },
                     {
                         "id": "workbench.action.closeFolder",
-                        "label": "Close &&Folder",
-                        "enabled": false
+                        "label": "Close &&Folder"
                     },
                     {
                         "id": "workbench.action.closeWindow",
@@ -358,7 +410,8 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
-                                    "label": "Show &&Side Bar"
+                                    "label": "Show &&Side Bar",
+                                    "checked": true
                                 },
                                 {
                                     "id": "workbench.action.toggleStatusbarVisibility",
@@ -551,8 +604,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1385,10 +1437,11 @@
     },
     "theme": "vs-dark",
     "themeBackground": "#1e1e1e",
-    "pickerWorkingDir": "/home/student",
+    "pickerWorkingDir": "/home/student/CSP2101/Workshop/Week3",
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/student/.config/Code/Backups/1563959514885",
+            "folder": "file:///home/student/CSP2101/Workshop",
+            "backupPath": "/home/student/.config/Code/Backups/5874d14f841c86d1284b568bc5d26500",
             "uiState": {
                 "mode": 0,
                 "x": 0,

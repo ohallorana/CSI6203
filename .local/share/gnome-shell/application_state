@@ -1,9 +1,12 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="code.desktop" score="1508" last-seen="1584080001"/>
-    <application id="gnome-power-panel.desktop" score="0" last-seen="0"/>
-    <application id="gnome-control-center.desktop" score="0" last-seen="1584079339"/>
-    <application id="qterminal.desktop" score="226" last-seen="1584080001"/>
+    <application id="code.desktop" score="6552" last-seen="1584609100"/>
+    <application id="firefox.desktop" score="7" last-seen="1584082359"/>
+    <application id="libreoffice-writer.desktop" score="0" last-seen="1584081597"/>
+    <application id="gnome-control-center.desktop" score="8" last-seen="1584081529"/>
+    <application id="pcmanfm-qt.desktop" score="0" last-seen="1584081586"/>
+    <application id="qterminal.desktop" score="666" last-seen="1584609108"/>
+    <application id="yelp.desktop" score="0" last-seen="1584081572"/>
   </context>
 </application-state>
