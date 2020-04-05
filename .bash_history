@@ -133,3 +133,47 @@ rm -R Test
 ls
 code
 ~
+ls
+cd CSP2101/Workshop/Week3
+ls
+./Savepassword.sh
+chmod +x /home/student/CSP2101/Workshop/Week3/Savepassword.sh
+ls
+./Savepassword.sh
+ls
+code
+ls
+code
+./Savepassword.sh
+code
+./Savepassword.sh
+ls
+code
+./Savepassword.sh
+code
+./Savepassword.sh
+ls
+code
+rm -r test
+ls
+rm -r test10
+rm -r test2
+rm -r test 3
+rm -r 'test 3'
+ls
+rm -r test3
+ls
+rm -r secret.txt
+ls
+code
+cd /home/student/
+git push -u origin master
+ls
+cd CSP2101/Workshop/Week3
+ls
+rm -d test.sh
+ls
+rm -d toasty
+ls
+rm -d items
+ls

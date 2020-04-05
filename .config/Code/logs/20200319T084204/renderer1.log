@@ -1,2 +1,0 @@
-[2020-03-19 08:42:08.152] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/student/CSP2101/Workshop/.vscode'
-[2020-03-19 08:42:08.153] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/student/CSP2101/Workshop/.vscode'

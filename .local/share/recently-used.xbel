@@ -113,12 +113,32 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/student/Pictures/Screenshot%20from%202020-03-19%2009-07-29.png" added="2020-03-19T09:07:30Z" modified="2020-03-19T09:07:30Z" visited="2020-03-19T09:07:30.484924Z">
+  <bookmark href="file:///home/student/Pictures/Screenshot%20from%202020-03-19%2009-07-29.png" added="2020-03-19T09:07:30Z" modified="2020-03-19T09:07:30Z" visited="2020-03-19T09:07:30Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/png"/>
         <bookmark:applications>
           <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-19T09:07:30Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/CSP2101/Workshop/Week3/test.sh" added="2020-03-19T09:34:22Z" modified="2020-03-19T09:34:22Z" visited="2020-03-19T09:34:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-03-19T09:34:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/CSP2101/Assignment/Portfolio%20Task%201/Guessage.sh" added="2020-04-05T12:35:07Z" modified="2020-04-05T12:35:07Z" visited="2020-04-05T12:35:07.494299Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-04-05T12:35:07Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
