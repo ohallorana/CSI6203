@@ -177,3 +177,54 @@ rm -d toasty
 ls
 rm -d items
 ls
+code
+ls
+cd CSP2101
+ls
+cd Assignment
+ls
+CD 'Portfolio Task 1"
+
+
+
+
+cd Portfolio\ Task\ 1/
+ls
+chmod +x Guessage.sh
+code
+./Guessage.sh
+code
+./Guessage.sh
+code
+./Guessage.sh
+code
+./Guessage.sh
+code
+./Guessage.sh
+code
+./Guessage.sh
+code
+./Guessage.sh
+code
+./Guessage.sh
+code
+./Guessage.sh
+code
+./Guessage.sh
+code
+./Guessage.sh
+code
+./Guessage.sh
+code
+./Guessage.sh
+code
+./Guessage.sh
+code
+./Guessage.sh
+$rand_num
+code
+$rand_num
+./Guessage.sh
+code
+cd $home
+git push -u origin master

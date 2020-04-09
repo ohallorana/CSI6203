@@ -18,6 +18,14 @@ rand_num=$(($rand_num+$floor));
 
 read -p "Please Enter your Guess for the Age between 20 - 70: " usrguess
 
+# Test user input to check if entry is a Integer.
+# If not display error and close program
+tst='^[0-9]+$'
+if ! [[ $usrguess =~ $tst ]]; then
+    echo "Error: Please enter a number and try again"
+    exit 1
+fi
+
 # If statement to test user input agaist random generated number
 
 # Test is to check if entry is less then generated number
