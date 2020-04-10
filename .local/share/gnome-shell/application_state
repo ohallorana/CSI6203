@@ -1,7 +1,9 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="code.desktop" score="7550" last-seen="1586426647"/>
-    <application id="qterminal.desktop" score="187" last-seen="1586426647"/>
+    <application id="code.desktop" score="9628" last-seen="1586506967"/>
+    <application id="gnome-power-panel.desktop" score="0" last-seen="0"/>
+    <application id="gnome-control-center.desktop" score="0" last-seen="1586506847"/>
+    <application id="qterminal.desktop" score="513" last-seen="1586506967"/>
   </context>
 </application-state>

@@ -2,9 +2,12 @@
     "telemetry.machineId": "6d614a91acd8343324fc6cd6c735869b5b4b5eafadd0ce97169ba3b9d0089b63",
     "openedPathsList": {
         "workspaces3": [
+            "file:///home/student/CSP2101/Assignment/Portfolio%20Task%201",
+            "file:///home/student/CSP2101/Workshop/Week2",
             "file:///home/student/CSP2101/Workshop"
         ],
         "files2": [
+            "file:///home/student/CSP2101/Workshop/Week4/menu.sh",
             "file:///home/student/CSP2101/Assignment/Portfolio%20Task%201/Guessage.sh",
             "file:///home/student/CSP2101/Workshop/Week3/Savepassword.sh",
             "file:///home/student/CSP2101/Workshop/Week3/test10/secret.txt",
@@ -55,7 +58,29 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "fsPath": "/home/student/CSP2101/Workshop",
+                                        "fsPath": "/home/student/CSP2101/Assignment/Portfolio Task 1",
+                                        "external": "file:///home/student/CSP2101/Assignment/Portfolio%20Task%201",
+                                        "path": "/home/student/CSP2101/Assignment/Portfolio Task 1",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/CSP2101/Assignment/Portfolio Task 1"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/student/CSP2101/Workshop/Week2",
+                                        "path": "/home/student/CSP2101/Workshop/Week2",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/CSP2101/Workshop/Week2"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/student/CSP2101/Workshop",
                                         "path": "/home/student/CSP2101/Workshop",
                                         "scheme": "file"
@@ -65,6 +90,17 @@
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/student/CSP2101/Workshop/Week4/menu.sh",
+                                        "path": "/home/student/CSP2101/Workshop/Week4/menu.sh",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/CSP2101/Workshop/Week4/menu.sh"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -607,7 +643,8 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back"
+                        "label": "&&Back",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -1450,11 +1487,11 @@
     },
     "theme": "vs-dark",
     "themeBackground": "#1e1e1e",
-    "pickerWorkingDir": "/home/student/CSP2101/Assignment/Portfolio Task 1",
+    "pickerWorkingDir": "/home/student/CSP2101/Assignment",
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/student/CSP2101/Workshop",
-            "backupPath": "/home/student/.config/Code/Backups/5874d14f841c86d1284b568bc5d26500",
+            "folder": "file:///home/student/CSP2101/Assignment/Portfolio%20Task%201",
+            "backupPath": "/home/student/.config/Code/Backups/78962e48ae64415ffc05b95f232ef9ad",
             "uiState": {
                 "mode": 0,
                 "x": 0,

@@ -143,12 +143,82 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/student/Pictures/Screenshot%20from%202020-04-09%2009-09-09.png" added="2020-04-09T09:09:09Z" modified="2020-04-09T09:09:09Z" visited="2020-04-09T09:09:10.037064Z">
+  <bookmark href="file:///home/student/Pictures/Screenshot%20from%202020-04-09%2009-09-09.png" added="2020-04-09T09:09:09Z" modified="2020-04-09T09:09:09Z" visited="2020-04-09T09:09:10Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/png"/>
         <bookmark:applications>
           <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-04-09T09:09:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/CSP2101/Workshop/foldercopier.sh" added="2020-04-10T04:01:37Z" modified="2020-04-10T04:01:37Z" visited="2020-04-10T04:01:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-04-10T04:01:37Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/CSP2101/Workshop/Week4/findsecret1.sh" added="2020-04-10T04:15:10Z" modified="2020-04-10T04:15:10Z" visited="2020-04-10T04:15:10Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-04-10T04:15:10Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/CSP2101/Workshop/Week4/findnewest.sh" added="2020-04-10T04:43:25Z" modified="2020-04-10T04:43:25Z" visited="2020-04-10T04:43:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-04-10T04:43:25Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/CSP2101/Workshop/Week4/menu.sh" added="2020-04-10T08:03:39Z" modified="2020-04-10T08:23:26Z" visited="2020-04-10T08:03:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-04-10T08:23:26Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/CSP2101/Workshop/Week4/menuscripts.sh" added="2020-04-10T08:24:39Z" modified="2020-04-10T08:24:39Z" visited="2020-04-10T08:24:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-04-10T08:24:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/CSP2101/Workshop/Week2" added="2020-04-10T08:25:48Z" modified="2020-04-10T08:25:48Z" visited="2020-04-10T08:25:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-04-10T08:25:48Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/CSP2101/Assignment/Portfolio%20Task%201" added="2020-04-10T08:26:10Z" modified="2020-04-10T08:26:10Z" visited="2020-04-10T08:26:10.764733Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-04-10T08:26:10Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

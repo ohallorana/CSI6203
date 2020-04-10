@@ -1,0 +1,14 @@
+[2020-04-10 04:14:40.785] [exthost] [info] extension host started
+[2020-04-10 04:14:40.798] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2020-04-10 04:14:40.798] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-04-10 04:14:40.801] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2020-04-10 04:14:40.801] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-04-10 04:14:40.814] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2020-04-10 04:14:40.814] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2020-04-10 04:14:40.896] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2020-04-10 04:14:40.896] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-04-10 04:14:40.901] [exthost] [info] eager extensions activated
+[2020-04-10 04:29:53.880] [exthost] [info] ExtensionService#_doActivateExtension rogalmic.bash-debug {"startup":false,"activationEvent":"onDebug"}
+[2020-04-10 04:29:53.880] [exthost] [info] ExtensionService#loadCommonJSModule /home/student/.vscode/extensions/rogalmic.bash-debug-0.3.5/out/extension
+[2020-04-10 04:29:53.942] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready {"startup":false,"activationEvent":"onDebugResolve"}
+[2020-04-10 04:29:53.942] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-server-ready/dist/extension

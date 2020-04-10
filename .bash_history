@@ -228,3 +228,153 @@ $rand_num
 code
 cd $home
 git push -u origin master
+code
+ls
+cd CSP2101/
+ls
+cd Assignment/
+ls
+cd Portfolio\ Task\ 1/
+ls
+./guessage.sh
+./$guessage.sh
+guessage.sh
+/guessage.sh
+./guessage.sh
+ls
+./Guessage.sh
+code
+./Guessage.sh
+code
+./Guessage.sh
+code
+./Guessage.sh
+code
+./Guessage.sh
+code
+./Guessage.sh
+code
+./Guessage.sh
+code
+./Guessage.sh
+code
+./Guessage.sh
+code
+./Guessage.sh
+code
+./Guessage.sh
+code
+./Guessage.sh
+code
+./Guessage.sh
+code
+./Guessage.sh
+code
+./Guessage.sh
+code
+cd /home
+ls
+git push -u origin master
+cd student/
+ls
+cd CSP2101/
+git push -u origin master
+code
+git push -u origin master
+code
+git push -u origin master
+code
+chmod +x findsecret1.sh
+ls
+./findsecret1.sh
+ls
+cd Week4
+ls
+./findsecret1.sh
+ls
+cd Week4
+ls
+chmod +x findnewest.sh
+ls
+/findnewest.sh calc_rect_area.sh sspw.sh secret.txt
+ls
+./findnewest.sh calc_rect_area.sh sspw.sh secret.txt
+clear
+ls
+chmod +x menu.sh
+ls
+./menu.sh
+/menu.sh
+./menu.sh
+ls
+./menu.sh
+menu.sh
+cd -/CSP2101
+cd~/CSP2101
+ls
+cd CSP2101
+code
+cd csi6203
+cd /home
+ls
+cd student/
+ls
+cd CSP2101
+ls
+cdf Workshop/
+cd Workshop/
+code
+ls
+chmod -x ./foldercopier.sh
+ls
+./foldercopier.sh
+chmod -x ./foldercopier.sh
+chmod -x foldercopier.sh
+ls
+chmod +x ./foldercopier.sh
+ls
+./foldercopier.sh
+ls
+./foldercopier.sh
+ls
+cd Week4
+ls
+cd ~/Workshop
+cd
+ls
+cd CSP2101/Workshop/
+ls
+mv ?
+mv --help
+ls
+mv foldercopier.sh ./Week4
+ls
+cd Week4
+ls
+code
+ls
+code
+ls
+code
+ls
+./menu.sh
+/menu.sh
+./menu.sh
+./menu.sh 
+exit
+cd Week4
+ls
+./menu.sh
+ls
+cd Week4
+ls
+chmod +x menuscripts.sh
+ls
+./menuscripts.sh
+ls
+cd CSP2101/Workshop/
+ls
+cd Week4
+ls
+./menu.sh
+code
